@@ -1,1 +1,10 @@
-
+El uso responsable de la información en internet es importante porque ayuda a compartir contenidos
+verdaderos y útiles para las demás personas. La participación ciudadana permite que las personas expresen 
+sus opiniones y colaboren en decisiones de la comunidad de manera respetuosa y ética. Estas acciones se
+relacionan con herramientas como Git, ya que Git organiza el trabajo técnico en equipo y permite que varias
+personas colaboren de forma ordenada en un proyecto. Además, Git ayuda a guardar cambios, revisar 
+errores y mantener la transparencia en el trabajo realizado. Tanto en internet como en el
+desarrollo de proyectos, es fundamental actuar con responsabilidad y respeto.
+También se necesita comunicación y colaboración para alcanzar mejores resultados. 
+En conclusión, la ciudadanía digital y las herramientas
+técnicas buscan promover un trabajo organizado, seguro y colaborativo
