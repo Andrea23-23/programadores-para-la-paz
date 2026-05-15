@@ -1,5 +1,5 @@
-El uso responsable de la información en internet es importante porque ayuda a compartir contenidos
-verdaderos y útiles para las demás personas. La participación ciudadana permite que las personas expresen 
+Para mi el uso responsable de la información en internet es importante ya que ayuda a compartir contenidos
+verdaderos y útiles para las demás personas. Por otro lado la participación ciudadana permite que las personas expresen 
 sus opiniones y colaboren en decisiones de la comunidad de manera respetuosa y ética. Estas acciones se
 relacionan con herramientas como Git, ya que Git organiza el trabajo técnico en equipo y permite que varias
 personas colaboren de forma ordenada en un proyecto. Además, Git ayuda a guardar cambios, revisar 
