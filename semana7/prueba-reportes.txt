@@ -1,3 +1,0 @@
-Al consultar la ruta GET /reportes, el sistema muestra todos los reportes registrados. 
-Si no hay reportes, aparece una lista vacía ([]). 
-Los datos se almacenan temporalmente en memoria mientras el servidor está en ejecución.
