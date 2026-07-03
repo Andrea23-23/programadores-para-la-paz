@@ -1,0 +1,13 @@
+Automatización con n8n y Telegram
+
+Evento:
+Cuando un ciudadano envía un nuevo reporte.
+
+Acción:
+Enviar mensaje automático a Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar el sistema de veeduría."
+
+No enviar:
+Datos personales como nombres, documentos, teléfonos o direcciones.
