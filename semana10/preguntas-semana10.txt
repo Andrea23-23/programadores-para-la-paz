@@ -1,4 +1,11 @@
-1.B
-2.B
-3.B
-4.B
+pregunta 1
+respuesta B
+
+pregunta 2 
+respuesta B
+
+pregunta 3
+respuesta B
+
+pregunta 4
+respuesta B
