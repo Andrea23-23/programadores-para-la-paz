@@ -1,0 +1,9 @@
+Las metodologías ágiles ayudan a organizar mejor el trabajo porque permiten planificar las tareas por prioridades y realizar mejoras de forma continua.
+La automatización facilita procesos repetitivos y reduce el tiempo de respuesta.
+Herramientas como n8n permiten crear flujos de trabajo de manera sencilla. Telegram es útil para enviar notificaciones
+y coordinar actividades entre los miembros de una comunidad. 
+Estas herramientas mejoran la comunicación y el seguimiento de los reportes. Además, 
+permiten trabajar de forma colaborativa y mantener un registro de las actividades realizadas.
+La trazabilidad facilita conocer el avance de cada tarea.
+Todo esto contribuye a una mejor organización y participación ciudadana.
+ También ayuda a que los procesos sean más eficientes y transparentes.
