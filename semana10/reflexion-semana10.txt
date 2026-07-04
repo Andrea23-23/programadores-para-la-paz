@@ -1,7 +1,0 @@
-Las metodologías ágiles permiten organizar el trabajo en pequeñas tareas que se pueden mejorar constantemente.
-El backlog ayuda a priorizar lo más importante primero.
-La automatización reduce trabajo repetitivo y mejora la rapidez de respuesta.
-Telegram sirve como canal de comunicación para notificaciones rápidas.
-Estas herramientas facilitan el trabajo en equipo y la participación ciudadana.
-También permiten llevar trazabilidad de los procesos. Es importante cuidar la privacidad y no compartir datos sensibles. 
-Así se logra un sistema más organizado, transparente y eficiente.
