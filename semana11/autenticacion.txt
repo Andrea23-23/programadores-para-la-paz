@@ -1,0 +1,8 @@
+Que es el login en una aplicacion.
+El login es el proceso que permite identificar a un usuario antes de darle acceso a una aplicación.
+Por qué algunas rutas deben estar protegidas. 
+Algunas rutas deben estar protegidas porque contienen información privada o funciones que solo pueden usar usuarios autorizados.
+Esto ayuda a mantener la seguridad del sistema y evita accesos no permitidos.
+Que tipo de informacion no deberia exponerse publicamente.
+No se deben exponer públicamente contraseñas, documentos de identidad, números de teléfono, direcciones, tokens, claves de API ni otros datos sensibles.
+De esta manera se protege la privacidad de la comunidad y la información almacenada.
