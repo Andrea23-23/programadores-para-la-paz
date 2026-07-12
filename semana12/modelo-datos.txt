@@ -1,0 +1,15 @@
+Entidad: Causa
+id: Identificador de la causa.
+titulo: Nombre de la causa.
+descripcion: Explica el motivo de la causa.
+fecha: Fecha de creación.
+
+La entidad Causa sirve para almacenar la información de las causas creadas por los ciudadanos.
+
+Entidad: Apoyo
+id: Identificador del apoyo.
+causa_id: Identifica la causa apoyada.
+nombre: Nombre de la persona que apoya.
+fecha: Fecha del apoyo.
+
+La entidad Apoyo sirve para registrar los apoyos realizados a cada causa.

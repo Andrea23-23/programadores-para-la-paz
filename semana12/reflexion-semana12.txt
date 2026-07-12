@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología puede ayudar a fortalecer la participación ciudadana.
+También comprendí que las plataformas digitales facilitan la organización de las comunidades.
+Aprendí a registrar y organizar información utilizando bases de datos.
+Comprendí la importancia de proteger los datos personales de los ciudadanos.
+También aprendí cómo un sistema puede generar documentos de forma automática.
+Las automatizaciones permiten enviar notificaciones cuando ocurre un evento importante.
+Herramientas como n8n y Telegram pueden apoyar la comunicación comunitaria.
+Además, aprendí cómo integrar diferentes componentes tecnológicos en una plataforma.
+Este curso me permitió comprender cómo la tecnología puede apoyar las necesidades de una comunidad.
